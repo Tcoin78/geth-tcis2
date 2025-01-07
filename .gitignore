@@ -3,4 +3,7 @@ node_modules/
 .idea/
 cache/
 artifacts/
-.env
+.envyes
+yes.pub
+eval "$(ssh-agent -s)"
+geth-tcis2/
